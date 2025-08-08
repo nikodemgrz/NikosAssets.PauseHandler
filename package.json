@@ -1,0 +1,15 @@
+{
+  "name": "com.nikosassets.pausehandler",
+  "displayName": "NikosAssets.PauseHandler",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "keywords": [],
+  "samples": [],
+  "author": {
+    "name": "Nikodem Grzonkowski"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.14.0"
+  },
+  "description": "Provides ingame pause states and events you can subscribe to, as well as a few optional \nhelper scripts that freeze the time during a pause and handle player inputs to toggle the pause state. \nNote that this package uses the new inputsystem from unity as a dependency."
+}
